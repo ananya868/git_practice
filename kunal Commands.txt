@@ -1,0 +1,23 @@
+ls -a : show hidden files
+ls .git : show whats inside git folder
+touch names.txt : create a file names.txt
+git status : shows the changes made in git repo/folder
+git add . : adding changes to git repo made in folder
+git commit : final commit changes to repo in github
+
+cat names.txt : show the content inside the file
+git restore --staged names.txt : restore the file back to 	modified status after using git add. 
+git log : shows history of commits
+rm -rf names.txt : del the file
+git reset : reset to any previous commit 
+git stash : saving the workspace/project on the backstage 	to keep it for later use, u can bring it back 	anytime
+
+git stash pop : bring back things saved in backstage
+git stash clear : clearing the backstage
+
+
+
+
+
+
+
